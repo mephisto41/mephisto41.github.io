@@ -1,0 +1,3 @@
+[submodule "offscreencanvas-app"]
+	path = offscreencanvas-app
+	url = https://github.com/mephisto41/OffscreenCanvas-app.git
